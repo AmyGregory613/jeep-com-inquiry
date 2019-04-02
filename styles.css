@@ -1,0 +1,136 @@
+body {
+	font-family: "Roboto", sans-serif;
+	font-size: 1rem;
+	box-sizing: border-box;
+}
+.navbar {
+	background-color: black;
+}
+.navbar a {
+	color:white;
+}
+.navbar-toggler-icon {
+	color: white;
+}
+.carousel-caption {
+	background-color: rgba(0,0,0,.5);
+	width: 60vw;
+	top: 0;
+    bottom: auto;
+	margin: 0px auto;
+	padding: 2.8rem;
+}
+.vertical-line {
+	border: solid .5px white;
+	height: 20px;
+	width: 1px;
+}
+
+.text-small{
+	font-size:10px;
+}
+
+.text-big{
+	font-size:20px;
+}
+
+.border-y{
+	border-top: solid 2px white;
+	border-bottom:  solid 2px white;
+}
+
+.carousel-plus p, div{
+	font-size:12px;
+}
+.button {
+	font-size: 12px;
+	background-color: rgb(252,186,0);
+	padding: 10px;
+	color: black;
+	text-decoration: none;
+	align-self: center;
+}
+a button {
+	color:black !important;
+} 
+a button:hover {
+	color:black !important; 
+	text-decoration:none;
+}
+.card-img {
+	background-color: white;
+}
+.card {
+	border: 0px;
+	text-align:center;
+}
+.card-title {
+	font-family: Roboto;
+    font-size: .7rem;
+    font-weight: bolder;
+    text-transform: uppercase;
+    margin-bottom: .14286rem;
+ 
+}
+.description {
+	font-family: Roboto;
+    font-size: .57143rem;
+    font-weight: 400;
+    text-transform: uppercase;
+    margin-bottom: .14286rem;
+
+}
+.price {
+	font-weight: bolder;
+	font-size: 1rem;
+}
+.cta-wrapper span {
+	padding: 0px 3px;
+	font-weight: bolder;
+}
+.cta-button {
+	background-color: 
+	height:;
+	width: 
+}
+
+.card:hover .cta-link{
+	color:#FFBA01;
+}
+
+.cta-link {
+	color:white;
+}
+
+.cta-link:hover{
+	color:#FFBA01;
+	text-decoration:underline;
+}
+
+
+.top-sellers{
+	background-color:black;
+	color:white;
+	text-align:left;
+}
+
+.top-sellers .card-title{
+	font-weight:bold;
+}
+
+.pre-footer {
+	height: 126px;
+	background-color: black;
+}
+
+.pre-footer: a img {
+	margin: 10px;
+}
+
+.form-wrapper{
+	background-color:#333;
+}
+
+.form-container{
+	background-color:white;
+}
